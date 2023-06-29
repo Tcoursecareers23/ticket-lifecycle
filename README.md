@@ -7,7 +7,7 @@
 In this section I show outlines of the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
+
 
 
 <h2>Environments and Technologies Used</h2>
@@ -27,28 +27,6 @@ In this section I show outlines of the lifecycle of a ticket from intake to reso
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+![Screenshot 2023-06-29 171931](https://github.com/Tcoursecareers23/ticket-lifecycle/assets/138035327/5a4da50b-1cb7-4983-b52a-f0d8c58f2e2e)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
-<br />
