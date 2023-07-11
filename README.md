@@ -10,7 +10,7 @@ In this section I show outlines of the lifecycle of a ticket from intake to reso
 <h2>Video Demonstration</h2>
 
  [YouTube: How to create, work, and resolves tickets within osTicket]
-- ### https://www.youtube.com/watch?v=Kq0BMVhbFkA&t=36s
+- ### https://www.youtube.com/watch?v=1VjIhdIgM2k
 
 
 
